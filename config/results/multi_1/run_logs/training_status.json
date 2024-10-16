@@ -1,0 +1,38 @@
+{
+    "Pong": {
+        "checkpoints": [
+            {
+                "steps": 2422,
+                "file_path": "results/multi_1/Pong/Pong-2422.onnx",
+                "reward": null,
+                "creation_time": 1728572257.314241,
+                "auxillary_file_paths": [
+                    "results/multi_1/Pong/Pong-2422.pt"
+                ]
+            },
+            {
+                "steps": 30708,
+                "file_path": "results/multi_1/Pong/Pong-30708.onnx",
+                "reward": 0.0,
+                "creation_time": 1728574128.0088372,
+                "auxillary_file_paths": [
+                    "results/multi_1/Pong/Pong-30708.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 30708,
+            "file_path": "results/multi_1/Pong.onnx",
+            "reward": 0.0,
+            "creation_time": 1728574128.0088372,
+            "auxillary_file_paths": [
+                "results/multi_1/Pong/Pong-30708.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "2.4.1"
+    }
+}

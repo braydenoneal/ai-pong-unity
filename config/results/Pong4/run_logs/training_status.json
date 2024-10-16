@@ -1,0 +1,56 @@
+{
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "2.4.1"
+    },
+    "Pong": {
+        "checkpoints": [
+            {
+                "steps": 62152,
+                "file_path": "results/Pong4/Pong/Pong-62152.onnx",
+                "reward": -0.75,
+                "creation_time": 1727466183.549908,
+                "auxillary_file_paths": [
+                    "results/Pong4/Pong/Pong-62152.pt"
+                ]
+            },
+            {
+                "steps": 64893,
+                "file_path": "results/Pong4/Pong/Pong-64893.onnx",
+                "reward": null,
+                "creation_time": 1727466471.86885,
+                "auxillary_file_paths": [
+                    "results/Pong4/Pong/Pong-64893.pt"
+                ]
+            },
+            {
+                "steps": 65072,
+                "file_path": "results/Pong4/Pong/Pong-65072.onnx",
+                "reward": null,
+                "creation_time": 1727967608.9151738,
+                "auxillary_file_paths": [
+                    "results/Pong4/Pong/Pong-65072.pt"
+                ]
+            },
+            {
+                "steps": 65747,
+                "file_path": "results/Pong4/Pong/Pong-65747.onnx",
+                "reward": -1.0,
+                "creation_time": 1727967840.647315,
+                "auxillary_file_paths": [
+                    "results/Pong4/Pong/Pong-65747.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 65747,
+            "file_path": "results/Pong4/Pong.onnx",
+            "reward": -1.0,
+            "creation_time": 1727967840.647315,
+            "auxillary_file_paths": [
+                "results/Pong4/Pong/Pong-65747.pt"
+            ]
+        }
+    }
+}

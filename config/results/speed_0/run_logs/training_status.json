@@ -1,0 +1,65 @@
+{
+    "Pong": {
+        "checkpoints": [
+            {
+                "steps": 3998818,
+                "file_path": "results/speed_0/Pong/Pong-3998818.onnx",
+                "reward": null,
+                "creation_time": 1729010072.733811,
+                "auxillary_file_paths": [
+                    "results/speed_0/Pong/Pong-3998818.pt"
+                ]
+            },
+            {
+                "steps": 3999970,
+                "file_path": "results/speed_0/Pong/Pong-3999970.onnx",
+                "reward": null,
+                "creation_time": 1729010135.613581,
+                "auxillary_file_paths": [
+                    "results/speed_0/Pong/Pong-3999970.pt"
+                ]
+            },
+            {
+                "steps": 4499988,
+                "file_path": "results/speed_0/Pong/Pong-4499988.onnx",
+                "reward": 0.20000001788139343,
+                "creation_time": 1729010506.065734,
+                "auxillary_file_paths": [
+                    "results/speed_0/Pong/Pong-4499988.pt"
+                ]
+            },
+            {
+                "steps": 4999998,
+                "file_path": "results/speed_0/Pong/Pong-4999998.onnx",
+                "reward": 1.4000000059604645,
+                "creation_time": 1729010885.538499,
+                "auxillary_file_paths": [
+                    "results/speed_0/Pong/Pong-4999998.pt"
+                ]
+            },
+            {
+                "steps": 5000018,
+                "file_path": "results/speed_0/Pong/Pong-5000018.onnx",
+                "reward": 0.4000000134110451,
+                "creation_time": 1729010885.5909498,
+                "auxillary_file_paths": [
+                    "results/speed_0/Pong/Pong-5000018.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5000018,
+            "file_path": "results/speed_0/Pong.onnx",
+            "reward": 0.4000000134110451,
+            "creation_time": 1729010885.5909498,
+            "auxillary_file_paths": [
+                "results/speed_0/Pong/Pong-5000018.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "2.4.1"
+    }
+}

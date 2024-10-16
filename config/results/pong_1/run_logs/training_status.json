@@ -1,0 +1,65 @@
+{
+    "Pong": {
+        "checkpoints": [
+            {
+                "steps": 494832,
+                "file_path": "results/pong_1/Pong/Pong-494832.onnx",
+                "reward": null,
+                "creation_time": 1728491941.50716,
+                "auxillary_file_paths": [
+                    "results/pong_1/Pong/Pong-494832.pt"
+                ]
+            },
+            {
+                "steps": 499940,
+                "file_path": "results/pong_1/Pong/Pong-499940.onnx",
+                "reward": null,
+                "creation_time": 1728491958.376524,
+                "auxillary_file_paths": [
+                    "results/pong_1/Pong/Pong-499940.pt"
+                ]
+            },
+            {
+                "steps": 500004,
+                "file_path": "results/pong_1/Pong/Pong-500004.onnx",
+                "reward": null,
+                "creation_time": 1728491958.3953211,
+                "auxillary_file_paths": [
+                    "results/pong_1/Pong/Pong-500004.pt"
+                ]
+            },
+            {
+                "steps": 500004,
+                "file_path": "results/pong_1/Pong/Pong-500004.onnx",
+                "reward": null,
+                "creation_time": 1728499367.205139,
+                "auxillary_file_paths": [
+                    "results/pong_1/Pong/Pong-500004.pt"
+                ]
+            },
+            {
+                "steps": 829130,
+                "file_path": "results/pong_1/Pong/Pong-829130.onnx",
+                "reward": -1.0,
+                "creation_time": 1728500089.618455,
+                "auxillary_file_paths": [
+                    "results/pong_1/Pong/Pong-829130.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 829130,
+            "file_path": "results/pong_1/Pong.onnx",
+            "reward": -1.0,
+            "creation_time": 1728500089.618455,
+            "auxillary_file_paths": [
+                "results/pong_1/Pong/Pong-829130.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "2.4.1"
+    }
+}

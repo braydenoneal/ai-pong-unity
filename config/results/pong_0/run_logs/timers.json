@@ -1,0 +1,54 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1728484996",
+        "python_version": "3.10.12 (main, Jul  5 2023, 15:02:25) [Clang 14.0.6 ]",
+        "command_line_arguments": "/opt/miniconda3/envs/mlagents/bin/mlagents-learn pong.yml --run-id=pong_0 --time-scale=3 --resume",
+        "mlagents_version": "1.0.0",
+        "mlagents_envs_version": "1.0.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "2.4.1",
+        "numpy_version": "1.21.2",
+        "end_time_seconds": "1728485003"
+    },
+    "total": 6.398336415993981,
+    "count": 1,
+    "self": 0.009558040997944772,
+    "children": {
+        "run_training.setup": {
+            "total": 0.016443208005512133,
+            "count": 1,
+            "self": 0.016443208005512133
+        },
+        "TrainerController.start_learning": {
+            "total": 6.372335166990524,
+            "count": 1,
+            "self": 7.116698543541133e-05,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 6.264806791004958,
+                    "count": 1,
+                    "self": 6.264806791004958
+                },
+                "trainer_threads": {
+                    "total": 4.169996827840805e-07,
+                    "count": 1,
+                    "self": 4.169996827840805e-07
+                },
+                "TrainerController._save_models": {
+                    "total": 0.10745679200044833,
+                    "count": 1,
+                    "self": 0.0006407500040950254,
+                    "children": {
+                        "RLTrainer._checkpoint": {
+                            "total": 0.1068160419963533,
+                            "count": 1,
+                            "self": 0.1068160419963533
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

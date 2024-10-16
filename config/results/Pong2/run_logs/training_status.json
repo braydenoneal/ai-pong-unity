@@ -1,0 +1,65 @@
+{
+    "Pong": {
+        "checkpoints": [
+            {
+                "steps": 21554,
+                "file_path": "results/Pong2/Pong/Pong-21554.onnx",
+                "reward": 0.6666666666666666,
+                "creation_time": 1727370059.397227,
+                "auxillary_file_paths": [
+                    "results/Pong2/Pong/Pong-21554.pt"
+                ]
+            },
+            {
+                "steps": 44901,
+                "file_path": "results/Pong2/Pong/Pong-44901.onnx",
+                "reward": 0.3333333333333333,
+                "creation_time": 1727370169.981825,
+                "auxillary_file_paths": [
+                    "results/Pong2/Pong/Pong-44901.pt"
+                ]
+            },
+            {
+                "steps": 58069,
+                "file_path": "results/Pong2/Pong/Pong-58069.onnx",
+                "reward": null,
+                "creation_time": 1727372745.170347,
+                "auxillary_file_paths": [
+                    "results/Pong2/Pong/Pong-58069.pt"
+                ]
+            },
+            {
+                "steps": 67051,
+                "file_path": "results/Pong2/Pong/Pong-67051.onnx",
+                "reward": null,
+                "creation_time": 1727373495.15983,
+                "auxillary_file_paths": [
+                    "results/Pong2/Pong/Pong-67051.pt"
+                ]
+            },
+            {
+                "steps": 67445,
+                "file_path": "results/Pong2/Pong/Pong-67445.onnx",
+                "reward": 0.0,
+                "creation_time": 1727373576.833715,
+                "auxillary_file_paths": [
+                    "results/Pong2/Pong/Pong-67445.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 67445,
+            "file_path": "results/Pong2/Pong.onnx",
+            "reward": 0.0,
+            "creation_time": 1727373576.833715,
+            "auxillary_file_paths": [
+                "results/Pong2/Pong/Pong-67445.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "2.4.1"
+    }
+}

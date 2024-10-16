@@ -1,0 +1,65 @@
+{
+    "Pong": {
+        "checkpoints": [
+            {
+                "steps": 3757634,
+                "file_path": "results/multi_0/Pong/Pong-3757634.onnx",
+                "reward": null,
+                "creation_time": 1728519716.0580008,
+                "auxillary_file_paths": [
+                    "results/multi_0/Pong/Pong-3757634.pt"
+                ]
+            },
+            {
+                "steps": 3999962,
+                "file_path": "results/multi_0/Pong/Pong-3999962.onnx",
+                "reward": null,
+                "creation_time": 1728520251.9476721,
+                "auxillary_file_paths": [
+                    "results/multi_0/Pong/Pong-3999962.pt"
+                ]
+            },
+            {
+                "steps": 4499948,
+                "file_path": "results/multi_0/Pong/Pong-4499948.onnx",
+                "reward": null,
+                "creation_time": 1728520651.1143801,
+                "auxillary_file_paths": [
+                    "results/multi_0/Pong/Pong-4499948.pt"
+                ]
+            },
+            {
+                "steps": 4999970,
+                "file_path": "results/multi_0/Pong/Pong-4999970.onnx",
+                "reward": null,
+                "creation_time": 1728521058.1539369,
+                "auxillary_file_paths": [
+                    "results/multi_0/Pong/Pong-4999970.pt"
+                ]
+            },
+            {
+                "steps": 5000162,
+                "file_path": "results/multi_0/Pong/Pong-5000162.onnx",
+                "reward": null,
+                "creation_time": 1728521058.177407,
+                "auxillary_file_paths": [
+                    "results/multi_0/Pong/Pong-5000162.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5000162,
+            "file_path": "results/multi_0/Pong.onnx",
+            "reward": null,
+            "creation_time": 1728521058.177407,
+            "auxillary_file_paths": [
+                "results/multi_0/Pong/Pong-5000162.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "2.4.1"
+    }
+}

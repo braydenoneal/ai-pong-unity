@@ -1,0 +1,65 @@
+{
+    "Pong": {
+        "checkpoints": [
+            {
+                "steps": 70920,
+                "file_path": "results/pong_0/Pong/Pong-70920.onnx",
+                "reward": null,
+                "creation_time": 1728483309.53551,
+                "auxillary_file_paths": [
+                    "results/pong_0/Pong/Pong-70920.pt"
+                ]
+            },
+            {
+                "steps": 77307,
+                "file_path": "results/pong_0/Pong/Pong-77307.onnx",
+                "reward": null,
+                "creation_time": 1728483577.952205,
+                "auxillary_file_paths": [
+                    "results/pong_0/Pong/Pong-77307.pt"
+                ]
+            },
+            {
+                "steps": 499999,
+                "file_path": "results/pong_0/Pong/Pong-499999.onnx",
+                "reward": null,
+                "creation_time": 1728484604.5164359,
+                "auxillary_file_paths": [
+                    "results/pong_0/Pong/Pong-499999.pt"
+                ]
+            },
+            {
+                "steps": 500063,
+                "file_path": "results/pong_0/Pong/Pong-500063.onnx",
+                "reward": null,
+                "creation_time": 1728484604.536318,
+                "auxillary_file_paths": [
+                    "results/pong_0/Pong/Pong-500063.pt"
+                ]
+            },
+            {
+                "steps": 500063,
+                "file_path": "results/pong_0/Pong/Pong-500063.onnx",
+                "reward": null,
+                "creation_time": 1728485003.182357,
+                "auxillary_file_paths": [
+                    "results/pong_0/Pong/Pong-500063.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500063,
+            "file_path": "results/pong_0/Pong.onnx",
+            "reward": null,
+            "creation_time": 1728485003.182357,
+            "auxillary_file_paths": [
+                "results/pong_0/Pong/Pong-500063.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "2.4.1"
+    }
+}

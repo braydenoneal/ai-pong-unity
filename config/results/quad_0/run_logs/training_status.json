@@ -1,0 +1,65 @@
+{
+    "Pong": {
+        "checkpoints": [
+            {
+                "steps": 999996,
+                "file_path": "results/quad_0/Pong/Pong-999996.onnx",
+                "reward": null,
+                "creation_time": 1728515659.578064,
+                "auxillary_file_paths": [
+                    "results/quad_0/Pong/Pong-999996.pt"
+                ]
+            },
+            {
+                "steps": 1499940,
+                "file_path": "results/quad_0/Pong/Pong-1499940.onnx",
+                "reward": null,
+                "creation_time": 1728516127.477229,
+                "auxillary_file_paths": [
+                    "results/quad_0/Pong/Pong-1499940.pt"
+                ]
+            },
+            {
+                "steps": 1621298,
+                "file_path": "results/quad_0/Pong/Pong-1621298.onnx",
+                "reward": null,
+                "creation_time": 1728516245.255336,
+                "auxillary_file_paths": [
+                    "results/quad_0/Pong/Pong-1621298.pt"
+                ]
+            },
+            {
+                "steps": 1623780,
+                "file_path": "results/quad_0/Pong/Pong-1623780.onnx",
+                "reward": null,
+                "creation_time": 1728516281.736106,
+                "auxillary_file_paths": [
+                    "results/quad_0/Pong/Pong-1623780.pt"
+                ]
+            },
+            {
+                "steps": 1627812,
+                "file_path": "results/quad_0/Pong/Pong-1627812.onnx",
+                "reward": null,
+                "creation_time": 1728516465.788036,
+                "auxillary_file_paths": [
+                    "results/quad_0/Pong/Pong-1627812.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1627812,
+            "file_path": "results/quad_0/Pong.onnx",
+            "reward": null,
+            "creation_time": 1728516465.788036,
+            "auxillary_file_paths": [
+                "results/quad_0/Pong/Pong-1627812.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "2.4.1"
+    }
+}
